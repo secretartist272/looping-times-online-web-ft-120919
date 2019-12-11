@@ -6,5 +6,6 @@ def using_times("Windgardium Leviosa")
 end
 
 7.time do
-puts "#{looping_string"
-  
+  # "using_times = looping_string"
+  puts "#{looping_string}"
+end
