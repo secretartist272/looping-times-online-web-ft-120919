@@ -5,5 +5,5 @@ def using_times("Windgardium Leviosa")
   # using_times == looping_string
 end
 
-# "using_times = looping_string"
+
 puts " #{looping_string} "
