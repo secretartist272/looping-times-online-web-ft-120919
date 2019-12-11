@@ -5,7 +5,3 @@ using_times ="Windgardium Leviosa"
   # using_times == looping_string
 end
 
-7.times do
-  # looping_string = using_times
-  puts "#{looping_string}"
-end
