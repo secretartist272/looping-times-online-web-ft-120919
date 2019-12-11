@@ -13,5 +13,5 @@ counter = 0
 	  if counter >= 7 
 	    break
 	  end
-  end
 end
+  
